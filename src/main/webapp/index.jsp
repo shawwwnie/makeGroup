@@ -16,4 +16,4 @@
 		<input type="button" value="회원가입" onClick="location.href='${pageContext.request.contextPath}/signUp.do'">
 	</div>
 </body>
-</html>
+</html> 

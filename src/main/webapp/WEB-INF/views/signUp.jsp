@@ -9,7 +9,7 @@
 <body>
 	<h2>회원가입</h2>
 	<form class="signUpForm" action="">
-		<ul>
+		<ul> 
 			<li>
 				<a>아이디</a>
 				<input type="text" class="insertId" name="mem_id">
